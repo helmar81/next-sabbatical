@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextapp-dev-84110-authRole",
+      "UnauthRoleArn": "arn:aws:iam::864429128328:role/amplify-nextapp-dev-84110-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::864429128328:role/amplify-nextapp-dev-84110-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-nextapp-dev-84110-deployment",
+      "UnauthRoleName": "amplify-nextapp-dev-84110-unauthRole",
+      "StackName": "amplify-nextapp-dev-84110",
+      "StackId": "arn:aws:cloudformation:eu-central-1:864429128328:stack/amplify-nextapp-dev-84110/5576cdc0-e8b4-11ed-95eb-0236194c6edc",
+      "AmplifyAppId": "dtfvw3c4jy1su"
+    },
+    "categories": {
+      "function": {
+        "nextappb2547309": {
+          "deploymentBucketName": "amplify-nextapp-dev-84110-deployment",
+          "s3Key": "amplify-builds/nextappb2547309-3458346673756d514144-build.zip"
+        }
+      },
+      "api": {
+        "api0fe1487b": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {},
+        "amplifyhosting": {
+          "appId": "dtfvw3c4jy1su",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

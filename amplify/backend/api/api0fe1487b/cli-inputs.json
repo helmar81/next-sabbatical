@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "nextappb2547309",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
